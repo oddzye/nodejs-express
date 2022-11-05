@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fs-async.js",
+  "scripts": {
+    "start": "nodemon http-module.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddzye/nodejs-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oddzye/nodejs-express/issues"
+  },
+  "homepage": "https://github.com/oddzye/nodejs-express#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
